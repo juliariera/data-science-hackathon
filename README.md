@@ -11,7 +11,7 @@ In this project, we use data available in Open Data BCN, the Barcelona City Coun
 In order to relate information, we merge both datasets using the rent dataset as the base one. Thus, from the accidents dataset, we extract the number of accidents per neighborhood (total, per cause, and per shift). 
 
 
-Data preprocessing techniques
+Data preprocessing
 ------
 In order to have accurate data, we perform a missing values analysis and treatment. Moreover, we improve some feature representation and apply normalization to the merged dataset.
 
